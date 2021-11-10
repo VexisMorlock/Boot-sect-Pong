@@ -9,23 +9,23 @@ Started by following a build done by: Queso Fuego
 https://www.youtube.com/watch?v=mYPzJlqQ3XI
 
 ## Recommended Usage
-- I used qemu to emulate this and it runs fine, and I have got it to run on my older dell latatude 1521 via usb.
+- I used qemu to emulate this and it runs fine. I have got it to run on my older dell latatude 1521 via usb.
 - I failed to run this on a 2016 macbook pro and ryzen 2600k
 
 ## Controls:
-- W: move player up
-- S: move player down
-- C: Change color (default white next one is black so everything disapears)
-- R: reset game
+- W: Move player up
+- S: Move player down
+- C: Change color
+- R: Reset game
 
 ## Known bugs:
-- When changing color the game lets you change the forground color to background color making everything invisible.
-- Keyboard repeat delay is't set well but can't really fix with size restraints
-- Visual glitches with ball when it hit screen limit
+- When changing color, the game lets you change the foreground color to background color making everything invisible.
+- The keyboard repeat delay isn't set well, but I can't really fix with size restraints.
+- Visual glitches with ball when it hits the screen limit.
  
 ## Future updates:
-- Want to add support for joysticks and fix keyboard repeat delay to add to more natural controls
-- Run in different mode to allow for larger game size
+- Want to add support for joysticks and fix keyboard repeat delay to add to more natural controls.
+- Run in a different mode to allow for larger game size.
   
   
   
